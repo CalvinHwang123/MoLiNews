@@ -1,1 +1,1 @@
-# MoLiNews
+# MoLiNews 磨砺新闻客户端
